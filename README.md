@@ -1,3 +1,5 @@
+# I'm Amol Pomaji
+
 # 💫 About Me:
 🔭 I’m currently working on: improving my backend projects with Python, Django & DRF, and enhancing my portfolio website.<br>👯 I’m looking to collaborate on: Python/Django backend projects, REST APIs, and small SaaS/automation ideas.<br>🤝 I’m looking for help with: contributing to open-source Python projects and learning scalable architecture patterns.<br>🌱 I’m currently learning: FastAPI, Celery, and cloud deployment (AWS / other PaaS platforms).<br>💬 Ask me about: Python, Django, REST APIs, PostgreSQL/MySQL, and getting started with backend development.<br>⚡ Fun fact: I love turning boring manual tasks into automation scripts—and I break things just to learn how to fix them 😄<br>
 
